@@ -1,0 +1,410 @@
+
+***NUMBERING_HISTORY Numbering (Asus): Sun Oct  2 10:48:40 2022
+NUMBERING_HISTORY Modified numbering for selected series
+NUMBERING_HISTORY Compare modified to old parts
+NUMBERING_HISTORY Compare new to old parts
+NUMBERING_HISTORY Holes considered
+NUMBERING_HISTORY Part names considered
+NUMBERING_HISTORY Beam orientation ignored
+NUMBERING_HISTORY Column orientation ignored
+NUMBERING_HISTORY Assembly Phase ignored
+NUMBERING_HISTORY Reinforcing bars considered
+NUMBERING_HISTORY Embeds considered
+NUMBERING_HISTORY Surface treatments considered
+NUMBERING_HISTORY Welds ignored
+NUMBERING_HISTORY Automatic cloning enabled
+NUMBERING_HISTORY Synchronize with master model disabled
+NUMBERING_HISTORY Tolerance: 1.000000
+NUMBERING_HISTORY SteelTolerance: 1.000000
+NUMBERING_HISTORY ConcreteTolerance: 1.000000
+NUMBERING_HISTORY RebarTolerance: 1.000000
+NUMBERING_HISTORY WeldSeamPropertyTolerance: 0.000000
+Duplicate groups clearing done in 0s
+Numbering 93 parts.
+Part    guid: f58d6974-ae8f-4dd9-80b5-4224aaec9837  series:P/1  P/0 -> P/1
+Part    guid: ce6b70c4-7c3c-4723-afeb-bfddab9e4d31  series:P/1  P/0 -> P/1
+Part    guid: 7054db17-5452-4bbb-bad0-e65c0a0eeca2  series:P/1  P/0 -> P/1
+Part    guid: a3a0629f-c8e8-4244-a942-ec2ab1626712  series:P/1  P/0 -> P/1
+Part    guid: 64a4be85-62c1-4727-9d79-f728250e6a21  series:P/1  P/0 -> P/1
+Part    guid: d3d862db-6080-43f8-aa04-2056ae39b162  series:P/1  P/0 -> P/1
+Part    guid: 262e4bbd-4564-46b6-89ba-1a34a8ec5bac  series:P/1  P/0 -> P/1
+Part    guid: 92fc1878-cae5-4939-b9c7-204a1a75ad8e  series:P/1  P/0 -> P/1
+Part    guid: 66ad5478-3350-4857-a4ef-f05ac6638258  series:P/1  P/0 -> P/2
+Part    guid: afcc062c-633b-4401-8a12-0ad0f5b8cd66  series:P/1  P/0 -> P/2
+Part    guid: fbfab5a8-554d-4f47-af39-6e5f8a22e4d7  series:P/1  P/0 -> P/2
+Part    guid: 15834807-32ca-453d-a6f8-28739b7840c0  series:P/1  P/0 -> P/2
+Part    guid: dcc54bde-0deb-495c-87d6-69ef7133493d  series:P/1  P/0 -> P/2
+Part    guid: fbfd7f36-3efb-462f-869b-30ab794a8e80  series:P/1  P/0 -> P/2
+Part    guid: 1c8e4883-b325-4644-8b16-fc437bd2e8af  series:P/1  P/0 -> P/2
+Part    guid: dea9b8b1-9095-4e41-aec6-70d3e594c280  series:P/1  P/0 -> P/2
+Part    guid: da3d9d79-4dd9-43d4-90c6-829848c61c48  series:P/1  P/0 -> P/3
+Part    guid: 105ece30-2b52-4207-9663-86aae6d8e3e7  series:P/1  P/0 -> P/3
+Part    guid: 71f72310-134f-41c7-81af-80bac49fe140  series:P/1  P/0 -> P/3
+Part    guid: c08dd9bf-35dc-4fdc-b56e-e2eecfcd9483  series:P/1  P/0 -> P/3
+Part    guid: 2947df4a-bb86-4824-b4be-1a7b6dded897  series:P/1  P/0 -> P/3
+Part    guid: ea852b4a-2f68-4778-aa9a-03ea40f8d583  series:P/1  P/0 -> P/3
+Part    guid: c44072a7-340a-4a9e-8008-46326f7cb7e4  series:P/1  P/0 -> P/3
+Part    guid: bd6229af-b9a8-4174-b107-a8ba1e890ea3  series:P/1  P/0 -> P/3
+Part    guid: d6ff1bd4-33d1-4a5a-8746-e7cb8672effd  series:D1-/1  D1-/0 -> D1-/1
+Part    guid: a2574374-adac-4868-b395-1e99d523d51c  series:D1-/1  D1-/0 -> D1-/1
+Part    guid: 9b2474c2-21f3-432b-b2f3-ea0130db3ab7  series:P/1  P/0 -> P/4
+Part    guid: a93b7cdf-582d-446d-b04e-190398069e3b  series:P/1  P/0 -> P/4
+Part    guid: 2fad7cd5-eb12-44d2-8ffb-1d5c629daf68  series:P/1  P/0 -> P/5
+Part    guid: b1b1b976-2471-4035-b4a3-ff3ba4778376  series:P/1  P/0 -> P/5
+Part    guid: 872c0e23-36e0-4d23-8b2c-196e6dfdae33  series:D1-/1  D1-/0 -> D1-/1
+Part    guid: a2707496-d12f-4921-aa76-63da3f788327  series:D1-/1  D1-/0 -> D1-/1
+Part    guid: 7c5a5285-ba0d-4d16-b087-5193550baaad  series:P/1  P/0 -> P/4
+Part    guid: e793fe7c-2400-49a1-8fdc-07e6a71c89c9  series:P/1  P/0 -> P/4
+Part    guid: a981eb7b-d43f-4308-a0c7-38d278a26d3d  series:P/1  P/0 -> P/5
+Part    guid: dacc173d-3c6f-4e4c-8f77-4903157d1124  series:P/1  P/0 -> P/5
+Part    guid: 59ef2d2a-7aef-45ab-bb7a-82bf566bb0b6  series:D1-/1  D1-/0 -> D1-/1
+Part    guid: 112c996c-0ce3-43a0-a1b0-5275632ff763  series:D1-/1  D1-/0 -> D1-/1
+Part    guid: 8f83a094-2f31-4ef8-9474-620305652086  series:P/1  P/0 -> P/4
+Part    guid: ae15493e-0a65-4dec-8854-c5da230955e8  series:P/1  P/0 -> P/4
+Part    guid: b322d371-b96c-4042-bae9-ebe9103db5ae  series:P/1  P/0 -> P/5
+Part    guid: eeb378ec-b240-46f2-b5c3-0bba93882edc  series:P/1  P/0 -> P/5
+Part    guid: ca9cf3f0-12e9-489d-9a9e-e27bff7f34b3  series:D1-/1  D1-/0 -> D1-/2
+Part    guid: f5d1fcac-cc2e-49f9-8fe5-d73ef6628f86  series:D1-/1  D1-/0 -> D1-/3
+Part    guid: 48173b97-1e7e-4cb3-9d8d-887f6679e7a5  series:P/1  P/0 -> P/4
+Part    guid: ce990ff0-a654-4d67-8812-c130d53227a6  series:P/1  P/0 -> P/4
+Part    guid: e1543da3-f1b6-48fe-8918-bf03bad295e9  series:P/1  P/0 -> P/5
+Part    guid: 837ede09-9cfe-4470-a50c-8112fb2a52d7  series:P/1  P/0 -> P/5
+Part    guid: 5dc992c4-e240-40fe-87f8-62fe0a1f1712  series:P/1  P/0 -> P/6
+Part    guid: dd9f5487-52dc-423a-b89e-58dea19423f4  series:P/1  P/0 -> P/6
+Part    guid: e9070839-21c1-4ed7-8def-918588e4171d  series:P/1  P/0 -> P/7
+Part    guid: 9d06d2d3-72bc-4ace-80f0-01b43a11988a  series:P/1  P/0 -> P/7
+Part    guid: 0af55cbe-5d32-412c-94c9-94b18c388bea  series:P/1  P/0 -> P/8
+Part    guid: 89a783e6-82e2-4875-aa73-e9f7e476c0a0  series:P/1  P/0 -> P/8
+Part    guid: a18c27d9-003b-47aa-9633-80c71eeabe80  series:P/1  P/0 -> P/6
+Part    guid: df1fe688-79a4-49c5-bc0d-3fc8f3e7bc8e  series:P/1  P/0 -> P/6
+Part    guid: 0803d18c-bca4-428d-8669-e58103e5bd21  series:P/1  P/0 -> P/7
+Part    guid: 38427861-041d-4dc4-8d5c-66fa8a16c712  series:P/1  P/0 -> P/7
+Part    guid: 2321d303-3ee1-4c41-89b7-ed40e19ebc00  series:P/1  P/0 -> P/8
+Part    guid: cd283d9c-b495-46aa-bcbe-2ba4285e7c19  series:P/1  P/0 -> P/8
+Part    guid: 5f3f6ef8-5f1c-4e67-ba61-94f3f07fa78f  series:P/1  P/0 -> P/6
+Part    guid: 25cb9141-bb65-4090-9859-5fbc29ad9f25  series:P/1  P/0 -> P/6
+Part    guid: 14b85559-a142-437f-9f60-b1c88771670b  series:P/1  P/0 -> P/7
+Part    guid: 3f7ffc31-97ae-46bc-b7ff-5aaa66437364  series:P/1  P/0 -> P/7
+Part    guid: 55fff04b-0062-4c1f-8bb0-e9b77dcb1340  series:P/1  P/0 -> P/8
+Part    guid: dcf47720-3051-4c37-8861-872355d4d4e4  series:P/1  P/0 -> P/8
+Part    guid: a6ae203f-2055-47a4-a67e-af2e8e78e176  series:P/1  P/0 -> P/9
+Part    guid: 6e6a8129-c207-43e5-84da-a0c3db8d4d9c  series:P/1  P/0 -> P/10
+Part    guid: 1ba5b461-6fef-4aa2-91f2-6e375185bc80  series:P/1  P/0 -> P/7
+Part    guid: 51621aa5-74c6-449c-b98f-fa56c7e0fa90  series:P/1  P/0 -> P/7
+Part    guid: 1f5ceaa4-2fd6-4266-aa94-636c90743294  series:P/1  P/0 -> P/8
+Part    guid: 3e9a6bc9-e42e-426f-8e56-bce511c6a6a0  series:P/1  P/0 -> P/8
+Part    guid: 50b16e9f-4b5b-493e-8961-e3f1f3d4c8d4  series:P/1  P/0 -> P/11
+Part    guid: 77b1b6cb-74d9-4e55-990e-06ce42407e44  series:P/1  P/0 -> P/11
+Part    guid: 15374b12-3d08-48bb-a541-a28dab2ebd6b  series:P/1  P/0 -> P/11
+Part    guid: 534db350-1cd7-43ae-be18-454d97691bcf  series:P/1  P/0 -> P/12
+Part    guid: 8c5a41b2-dee3-4b2e-bad9-5560183d9fb5  series:P/1  P/0 -> P/13
+Part    guid: 61fa9bb8-f0fa-4906-bd4b-6689f3a41eb1  series:P/1  P/0 -> P/14
+Part    guid: 66f778cf-6898-47e6-b176-83198c69d897  series:P/1  P/0 -> P/15
+Part    guid: 3744ec9c-883e-4b74-93da-ac08a52256a6  series:P/1  P/0 -> P/16
+Part    guid: d3504d89-1d22-4e63-9fcb-81596cb5cbae  series:P/1  P/0 -> P/17
+Part    guid: 703aee49-afe6-4e44-bea9-8e04a6cc61d8  series:P/1  P/0 -> P/14
+Part    guid: a3acd5ee-68d2-4f4c-9ef0-f24f2e783333  series:P/1  P/0 -> P/14
+Part    guid: 2c32129e-cc8d-4d2d-a1ff-2b07b2c30d22  series:P/1  P/0 -> P/14
+Part    guid: 8aec1f03-c1e1-48df-964d-14c93e3361ec  series:P/1  P/0 -> P/15
+Part    guid: 34beee60-d39a-4540-9811-9b0a63d3b7b5  series:P/1  P/0 -> P/15
+Part    guid: 7aae62a4-0a37-4913-85cd-8db320c9238d  series:P/1  P/0 -> P/15
+Part    guid: dca2f2f2-a0fb-4cf1-8561-40a736ed9a85  series:P/1  P/0 -> P/16
+Part    guid: a045deee-b59e-4c14-91d5-271cca4429f0  series:P/1  P/0 -> P/16
+Part    guid: 08c8ae84-f8c7-4f92-a668-fb64e5bdea98  series:P/1  P/0 -> P/16
+Part    guid: 7ba1294d-b7d8-4fac-8aeb-977868224a52  series:P/1  P/0 -> P/17
+Part    guid: e2342982-3f44-4db5-8fea-e96af89203ef  series:P/1  P/0 -> P/17
+Part    guid: 077781b8-772b-4cbd-a4d9-6a3b53d6f6fe  series:P/1  P/0 -> P/17
+Part numbering done in 0s
+Numbering 0 reinforcing bars
+Reinforcing bar numbering done in 0s
+Numbering 81 assemblies or assembly families
+Assembly guid: c1fd0de4-b9e6-4f37-b986-96ff891196b7  series:A/1  A/0 -> A/1
+Assembly guid: 71126fda-bb05-4917-83f0-4c935431471e  series:A/1  A/0 -> A/1
+Assembly guid: 18fba958-b5e0-4e74-affd-87a17365702e  series:A/1  A/0 -> A/1
+Assembly guid: e0e97bc5-94a0-46bc-8a46-7d14895c5d6c  series:A/1  A/0 -> A/1
+Assembly guid: 3a30bf84-749c-4d50-ae6b-1de669f84d6b  series:A/1  A/0 -> A/1
+Assembly guid: c8e712e7-4081-41e6-81dd-d7c07d8095b2  series:A/1  A/0 -> A/1
+Assembly guid: 9044300c-d4e4-4686-b62b-716014840736  series:A/1  A/0 -> A/2
+Assembly guid: 377bcf97-60ba-450d-9c67-4a99516a0af4  series:A/1  A/0 -> A/3
+Assembly guid: 95f3f658-a141-4aca-ae1e-ab9fad49808b  series:A/1  A/0 -> A/4
+Assembly guid: 43179304-7a11-4832-9c11-0b6fe5d0a24b  series:A/1  A/0 -> A/4
+Assembly guid: b2f5392a-9fdd-42a9-8e9a-c224b919557d  series:A/1  A/0 -> A/4
+Assembly guid: 4a16f532-85c4-40cb-8572-7ad4f3dc24fc  series:A/1  A/0 -> A/4
+Assembly guid: ae555b23-0516-4c89-b48f-166d8e9980c7  series:A/1  A/0 -> A/4
+Assembly guid: 62e3f213-95de-4fe7-beaf-644c78d5624b  series:A/1  A/0 -> A/4
+Assembly guid: c8233400-485a-49f3-b331-a091ea3fc0d3  series:A/1  A/0 -> A/4
+Assembly guid: acd92638-21f2-4107-a59e-d28f95c6b98c  series:A/1  A/0 -> A/4
+Assembly guid: 38b2ca2a-b3f9-484c-ae44-9024190d28c4  series:A/1  A/0 -> A/5
+Assembly guid: edd470ea-af78-4dac-8f51-c372a6cce822  series:A/1  A/0 -> A/5
+Assembly guid: 332648af-be45-439c-affa-c8e3857592f5  series:A/1  A/0 -> A/5
+Assembly guid: 3339444e-3a0c-45fc-8cef-91ef7cb45076  series:A/1  A/0 -> A/5
+Assembly guid: 4670517c-145b-406f-8cbb-be1544df18b9  series:A/1  A/0 -> A/5
+Assembly guid: 458077c2-a78f-465e-8fc7-7a0b4eda7ef5  series:A/1  A/0 -> A/5
+Assembly guid: 7faa7d1d-e468-46c3-97d0-52f0e0e7a104  series:A/1  A/0 -> A/5
+Assembly guid: 74ce7ab5-60fc-4443-9388-b9f800ac3595  series:A/1  A/0 -> A/5
+Assembly guid: a2000e20-5333-4778-947f-fdb5cf0bbbac  series:A/1  A/0 -> A/6
+Assembly guid: 09c6a442-eeb8-4abb-8803-dddb3fc9f1a6  series:A/1  A/0 -> A/6
+Assembly guid: 895250d4-b81a-4215-b794-5c7be39f7e4f  series:A/1  A/0 -> A/6
+Assembly guid: 76933db1-4811-4826-8f59-dd32a5c55596  series:A/1  A/0 -> A/6
+Assembly guid: 10f48471-cbbf-416c-89a4-eb2ae4f0e8fa  series:A/1  A/0 -> A/6
+Assembly guid: 0f3cb532-e8b0-4f81-998e-3d0c6dfec62e  series:A/1  A/0 -> A/6
+Assembly guid: 126adc39-4a7c-4ffe-9634-bab551026e63  series:A/1  A/0 -> A/6
+Assembly guid: 10f7851a-d443-416e-8401-a7892e6d0a57  series:A/1  A/0 -> A/6
+Assembly guid: c0c89bad-a610-429b-86ed-a64ff50a1a75  series:A/1  A/0 -> A/7
+Assembly guid: 6244f6c4-f153-43e0-a1c0-67f9e3ae7059  series:A/1  A/0 -> A/7
+Assembly guid: 0eaffdcf-90d9-4239-a841-f64aa24c0fdb  series:A/1  A/0 -> A/7
+Assembly guid: faa745d8-9f5e-427e-bd9d-6c571badc113  series:A/1  A/0 -> A/7
+Assembly guid: 2a1e3a43-742d-49ef-86ad-d314083ea87f  series:A/1  A/0 -> A/7
+Assembly guid: 6046c484-1bd0-480c-985b-73511116db43  series:A/1  A/0 -> A/7
+Assembly guid: 6bd2e95c-bcd8-4191-8247-2340dcede7c7  series:A/1  A/0 -> A/7
+Assembly guid: 655a04d1-012c-4d07-aa36-aeb4c719b6f8  series:A/1  A/0 -> A/7
+Assembly guid: 150b9ca2-06dd-4386-8c93-6e3d0a5f89da  series:A/1  A/0 -> A/8
+Assembly guid: b5fdf11f-3b56-43c8-a9b1-bca0bc41f930  series:A/1  A/0 -> A/8
+Assembly guid: d5037649-dd31-4f80-9933-94b6a80feed7  series:A/1  A/0 -> A/8
+Assembly guid: 7e848591-dd8a-4836-9f81-63fe792a61ab  series:A/1  A/0 -> A/8
+Assembly guid: 03fdbeec-f733-4b9c-ae06-888f39a1d84b  series:A/1  A/0 -> A/8
+Assembly guid: 3306ce1f-08b2-43b0-a79f-9cdbcda842cc  series:A/1  A/0 -> A/8
+Assembly guid: fa091649-caf5-4767-8777-8abaef52cc37  series:A/1  A/0 -> A/8
+Assembly guid: 5b600e8c-423d-43f4-83fe-e73a94f1caec  series:A/1  A/0 -> A/8
+Assembly guid: f8c0d5ee-8853-4bae-bdba-29ecdf2e9137  series:A/1  A/0 -> A/9
+Assembly guid: 1b8a8a3e-69a2-46c5-8d4d-d465dd8be487  series:A/1  A/0 -> A/9
+Assembly guid: 56b06a8b-a8d0-46f1-a144-9b12c5dbf2c3  series:A/1  A/0 -> A/9
+Assembly guid: 5217f512-d9e1-4847-b191-56a8ecc1d05a  series:A/1  A/0 -> A/9
+Assembly guid: e795ec3f-841b-4166-9fa8-a7e2daee137a  series:A/1  A/0 -> A/9
+Assembly guid: aa041fd3-e701-419d-9f69-61b50af1a366  series:A/1  A/0 -> A/9
+Assembly guid: 79f6d58d-d795-4553-835e-d57e0b9c0834  series:A/1  A/0 -> A/10
+Assembly guid: 0b3c606a-502f-4cea-a35f-c7ec9825fbe4  series:A/1  A/0 -> A/10
+Assembly guid: ee0dd656-8a10-46cf-a243-42dc6f8ea31b  series:A/1  A/0 -> A/10
+Assembly guid: aeffdcea-ea7f-4d3d-a5ea-424ad616d000  series:A/1  A/0 -> A/10
+Assembly guid: 0e558bc6-aade-4d24-b683-3c699b1d8474  series:A/1  A/0 -> A/10
+Assembly guid: 6a101b2b-8fc0-43c1-a38d-da8ce2ac155d  series:A/1  A/0 -> A/10
+Assembly guid: 2d88e6e3-6496-4075-8a6c-be5f66756736  series:A/1  A/0 -> A/10
+Assembly guid: 2437bdaa-7cc9-4344-afcb-587f8351124d  series:A/1  A/0 -> A/10
+Assembly guid: 9c68b3c2-9b68-41e7-9343-2ff2aaa431f1  series:A/1  A/0 -> A/11
+Assembly guid: 9687db8c-24d7-4fa4-97ef-e9b003b38c28  series:A/1  A/0 -> A/11
+Assembly guid: 169adc0c-df51-48db-937d-1cad42935070  series:A/1  A/0 -> A/11
+Assembly guid: 679b77f4-2c9e-4fdd-9016-1780f34d417d  series:A/1  A/0 -> A/11
+Assembly guid: de157a28-9b52-46e3-b538-a2a00eef5beb  series:A/1  A/0 -> A/11
+Assembly guid: 55ca93ed-04de-42c2-aa71-d92e5521ab06  series:A/1  A/0 -> A/11
+Assembly guid: 4f487e19-6fed-47f3-93b2-31a760a747b4  series:A/1  A/0 -> A/11
+Assembly guid: 83d1c571-49f9-4262-aa97-878c8777583e  series:A/1  A/0 -> A/11
+Assembly guid: 7df8d946-51b8-4d0a-98ca-516a8570f7a7  series:A/1  A/0 -> A/12
+Assembly guid: 547c2af0-eb9b-48fb-997a-c9f9b36bdf35  series:A/1  A/0 -> A/13
+Assembly guid: cda01cad-7fb3-46ab-ae60-9647cf23ef01  series:A/1  A/0 -> A/14
+Assembly guid: 87524e5f-c2ef-47e8-8e44-27c3e5b710a5  series:A/1  A/0 -> A/14
+Assembly guid: 039d311e-238e-418f-8037-8cb64b11bfc5  series:A/1  A/0 -> A/14
+Assembly guid: b93b416f-2f25-4c36-90b3-d3647dd58c48  series:A/1  A/0 -> A/15
+Assembly guid: a8cd14a3-7c48-48aa-9295-1c697cd8dbd1  series:A/1  A/0 -> A/16
+Assembly guid: 76674d79-1db3-49c3-83f4-b72311b9c873  series:A/1  A/0 -> A/17
+Assembly guid: 7c69fb66-34e2-4864-be42-008064c3d1c1  series:A/1  A/0 -> A/17
+Assembly guid: 783224d6-53c3-45ef-8157-983323ecfce7  series:A/1  A/0 -> A/17
+Assembly guid: cf2e2c09-4ae8-4ad1-9671-2ec5f22e042d  series:A/1  A/0 -> A/17
+Assembly numbering done in 0s
+Numbering 81 assemblies or assembly families
+Family numbering done in 0s
+***NUMBERING_HISTORY Operation finished Sun Oct  2 10:48:40 2022
+
+***NUMBERING_HISTORY Numbering (Asus): Sun Oct  2 10:49:57 2022
+NUMBERING_HISTORY Modified numbering for selected series
+NUMBERING_HISTORY Compare modified to old parts
+NUMBERING_HISTORY Compare new to old parts
+NUMBERING_HISTORY Holes considered
+NUMBERING_HISTORY Part names considered
+NUMBERING_HISTORY Beam orientation ignored
+NUMBERING_HISTORY Column orientation ignored
+NUMBERING_HISTORY Assembly Phase ignored
+NUMBERING_HISTORY Reinforcing bars considered
+NUMBERING_HISTORY Embeds considered
+NUMBERING_HISTORY Surface treatments considered
+NUMBERING_HISTORY Welds ignored
+NUMBERING_HISTORY Automatic cloning enabled
+NUMBERING_HISTORY Synchronize with master model disabled
+NUMBERING_HISTORY Tolerance: 1.000000
+NUMBERING_HISTORY SteelTolerance: 1.000000
+NUMBERING_HISTORY ConcreteTolerance: 1.000000
+NUMBERING_HISTORY RebarTolerance: 1.000000
+NUMBERING_HISTORY WeldSeamPropertyTolerance: 0.000000
+Duplicate groups clearing done in 0s
+Numbering 93 parts.
+Part    guid: f58d6974-ae8f-4dd9-80b5-4224aaec9837  series:P/1  P/0 -> P/18
+Part    guid: ce6b70c4-7c3c-4723-afeb-bfddab9e4d31  series:P/1  P/0 -> P/18
+Part    guid: 7054db17-5452-4bbb-bad0-e65c0a0eeca2  series:P/1  P/0 -> P/18
+Part    guid: a3a0629f-c8e8-4244-a942-ec2ab1626712  series:P/1  P/0 -> P/18
+Part    guid: 64a4be85-62c1-4727-9d79-f728250e6a21  series:P/1  P/0 -> P/18
+Part    guid: d3d862db-6080-43f8-aa04-2056ae39b162  series:P/1  P/0 -> P/18
+Part    guid: 262e4bbd-4564-46b6-89ba-1a34a8ec5bac  series:P/1  P/0 -> P/18
+Part    guid: 92fc1878-cae5-4939-b9c7-204a1a75ad8e  series:P/1  P/0 -> P/18
+Part    guid: 66ad5478-3350-4857-a4ef-f05ac6638258  series:P/1  P/0 -> P/19
+Part    guid: afcc062c-633b-4401-8a12-0ad0f5b8cd66  series:P/1  P/0 -> P/19
+Part    guid: fbfab5a8-554d-4f47-af39-6e5f8a22e4d7  series:P/1  P/0 -> P/19
+Part    guid: 15834807-32ca-453d-a6f8-28739b7840c0  series:P/1  P/0 -> P/19
+Part    guid: dcc54bde-0deb-495c-87d6-69ef7133493d  series:P/1  P/0 -> P/19
+Part    guid: fbfd7f36-3efb-462f-869b-30ab794a8e80  series:P/1  P/0 -> P/19
+Part    guid: 1c8e4883-b325-4644-8b16-fc437bd2e8af  series:P/1  P/0 -> P/19
+Part    guid: dea9b8b1-9095-4e41-aec6-70d3e594c280  series:P/1  P/0 -> P/19
+Part    guid: da3d9d79-4dd9-43d4-90c6-829848c61c48  series:P/1  P/0 -> P/20
+Part    guid: 105ece30-2b52-4207-9663-86aae6d8e3e7  series:P/1  P/0 -> P/20
+Part    guid: 71f72310-134f-41c7-81af-80bac49fe140  series:P/1  P/0 -> P/20
+Part    guid: c08dd9bf-35dc-4fdc-b56e-e2eecfcd9483  series:P/1  P/0 -> P/20
+Part    guid: 2947df4a-bb86-4824-b4be-1a7b6dded897  series:P/1  P/0 -> P/20
+Part    guid: ea852b4a-2f68-4778-aa9a-03ea40f8d583  series:P/1  P/0 -> P/20
+Part    guid: c44072a7-340a-4a9e-8008-46326f7cb7e4  series:P/1  P/0 -> P/20
+Part    guid: bd6229af-b9a8-4174-b107-a8ba1e890ea3  series:P/1  P/0 -> P/20
+Part    guid: d6ff1bd4-33d1-4a5a-8746-e7cb8672effd  series:D1-/1  D1-/0 -> D1-/4
+Part    guid: a2574374-adac-4868-b395-1e99d523d51c  series:D1-/1  D1-/0 -> D1-/4
+Part    guid: 9b2474c2-21f3-432b-b2f3-ea0130db3ab7  series:P/1  P/0 -> P/21
+Part    guid: a93b7cdf-582d-446d-b04e-190398069e3b  series:P/1  P/0 -> P/21
+Part    guid: 2fad7cd5-eb12-44d2-8ffb-1d5c629daf68  series:P/1  P/0 -> P/22
+Part    guid: b1b1b976-2471-4035-b4a3-ff3ba4778376  series:P/1  P/0 -> P/22
+Part    guid: 872c0e23-36e0-4d23-8b2c-196e6dfdae33  series:D1-/1  D1-/0 -> D1-/4
+Part    guid: a2707496-d12f-4921-aa76-63da3f788327  series:D1-/1  D1-/0 -> D1-/4
+Part    guid: 7c5a5285-ba0d-4d16-b087-5193550baaad  series:P/1  P/0 -> P/21
+Part    guid: e793fe7c-2400-49a1-8fdc-07e6a71c89c9  series:P/1  P/0 -> P/21
+Part    guid: a981eb7b-d43f-4308-a0c7-38d278a26d3d  series:P/1  P/0 -> P/22
+Part    guid: dacc173d-3c6f-4e4c-8f77-4903157d1124  series:P/1  P/0 -> P/22
+Part    guid: 59ef2d2a-7aef-45ab-bb7a-82bf566bb0b6  series:D1-/1  D1-/0 -> D1-/4
+Part    guid: 112c996c-0ce3-43a0-a1b0-5275632ff763  series:D1-/1  D1-/0 -> D1-/4
+Part    guid: 8f83a094-2f31-4ef8-9474-620305652086  series:P/1  P/0 -> P/21
+Part    guid: ae15493e-0a65-4dec-8854-c5da230955e8  series:P/1  P/0 -> P/21
+Part    guid: b322d371-b96c-4042-bae9-ebe9103db5ae  series:P/1  P/0 -> P/22
+Part    guid: eeb378ec-b240-46f2-b5c3-0bba93882edc  series:P/1  P/0 -> P/22
+Part    guid: ca9cf3f0-12e9-489d-9a9e-e27bff7f34b3  series:D1-/1  D1-/0 -> D1-/5
+Part    guid: f5d1fcac-cc2e-49f9-8fe5-d73ef6628f86  series:D1-/1  D1-/0 -> D1-/6
+Part    guid: 48173b97-1e7e-4cb3-9d8d-887f6679e7a5  series:P/1  P/0 -> P/21
+Part    guid: ce990ff0-a654-4d67-8812-c130d53227a6  series:P/1  P/0 -> P/21
+Part    guid: e1543da3-f1b6-48fe-8918-bf03bad295e9  series:P/1  P/0 -> P/22
+Part    guid: 837ede09-9cfe-4470-a50c-8112fb2a52d7  series:P/1  P/0 -> P/22
+Part    guid: 5dc992c4-e240-40fe-87f8-62fe0a1f1712  series:P/1  P/0 -> P/23
+Part    guid: dd9f5487-52dc-423a-b89e-58dea19423f4  series:P/1  P/0 -> P/23
+Part    guid: e9070839-21c1-4ed7-8def-918588e4171d  series:P/1  P/0 -> P/24
+Part    guid: 9d06d2d3-72bc-4ace-80f0-01b43a11988a  series:P/1  P/0 -> P/24
+Part    guid: 0af55cbe-5d32-412c-94c9-94b18c388bea  series:P/1  P/0 -> P/25
+Part    guid: 89a783e6-82e2-4875-aa73-e9f7e476c0a0  series:P/1  P/0 -> P/25
+Part    guid: a18c27d9-003b-47aa-9633-80c71eeabe80  series:P/1  P/0 -> P/23
+Part    guid: df1fe688-79a4-49c5-bc0d-3fc8f3e7bc8e  series:P/1  P/0 -> P/23
+Part    guid: 0803d18c-bca4-428d-8669-e58103e5bd21  series:P/1  P/0 -> P/24
+Part    guid: 38427861-041d-4dc4-8d5c-66fa8a16c712  series:P/1  P/0 -> P/24
+Part    guid: 2321d303-3ee1-4c41-89b7-ed40e19ebc00  series:P/1  P/0 -> P/25
+Part    guid: cd283d9c-b495-46aa-bcbe-2ba4285e7c19  series:P/1  P/0 -> P/25
+Part    guid: 5f3f6ef8-5f1c-4e67-ba61-94f3f07fa78f  series:P/1  P/0 -> P/23
+Part    guid: 25cb9141-bb65-4090-9859-5fbc29ad9f25  series:P/1  P/0 -> P/23
+Part    guid: 14b85559-a142-437f-9f60-b1c88771670b  series:P/1  P/0 -> P/24
+Part    guid: 3f7ffc31-97ae-46bc-b7ff-5aaa66437364  series:P/1  P/0 -> P/24
+Part    guid: 55fff04b-0062-4c1f-8bb0-e9b77dcb1340  series:P/1  P/0 -> P/25
+Part    guid: dcf47720-3051-4c37-8861-872355d4d4e4  series:P/1  P/0 -> P/25
+Part    guid: a6ae203f-2055-47a4-a67e-af2e8e78e176  series:P/1  P/0 -> P/26
+Part    guid: 6e6a8129-c207-43e5-84da-a0c3db8d4d9c  series:P/1  P/0 -> P/27
+Part    guid: 1ba5b461-6fef-4aa2-91f2-6e375185bc80  series:P/1  P/0 -> P/24
+Part    guid: 51621aa5-74c6-449c-b98f-fa56c7e0fa90  series:P/1  P/0 -> P/24
+Part    guid: 1f5ceaa4-2fd6-4266-aa94-636c90743294  series:P/1  P/0 -> P/25
+Part    guid: 3e9a6bc9-e42e-426f-8e56-bce511c6a6a0  series:P/1  P/0 -> P/25
+Part    guid: 50b16e9f-4b5b-493e-8961-e3f1f3d4c8d4  series:P/1  P/0 -> P/28
+Part    guid: 77b1b6cb-74d9-4e55-990e-06ce42407e44  series:P/1  P/0 -> P/28
+Part    guid: 15374b12-3d08-48bb-a541-a28dab2ebd6b  series:P/1  P/0 -> P/28
+Part    guid: 534db350-1cd7-43ae-be18-454d97691bcf  series:P/1  P/0 -> P/29
+Part    guid: 8c5a41b2-dee3-4b2e-bad9-5560183d9fb5  series:P/1  P/0 -> P/30
+Part    guid: 61fa9bb8-f0fa-4906-bd4b-6689f3a41eb1  series:P/1  P/0 -> P/31
+Part    guid: 66f778cf-6898-47e6-b176-83198c69d897  series:P/1  P/0 -> P/32
+Part    guid: 3744ec9c-883e-4b74-93da-ac08a52256a6  series:P/1  P/0 -> P/33
+Part    guid: d3504d89-1d22-4e63-9fcb-81596cb5cbae  series:P/1  P/0 -> P/34
+Part    guid: 703aee49-afe6-4e44-bea9-8e04a6cc61d8  series:P/1  P/0 -> P/31
+Part    guid: a3acd5ee-68d2-4f4c-9ef0-f24f2e783333  series:P/1  P/0 -> P/31
+Part    guid: 2c32129e-cc8d-4d2d-a1ff-2b07b2c30d22  series:P/1  P/0 -> P/31
+Part    guid: 8aec1f03-c1e1-48df-964d-14c93e3361ec  series:P/1  P/0 -> P/32
+Part    guid: 34beee60-d39a-4540-9811-9b0a63d3b7b5  series:P/1  P/0 -> P/32
+Part    guid: 7aae62a4-0a37-4913-85cd-8db320c9238d  series:P/1  P/0 -> P/32
+Part    guid: dca2f2f2-a0fb-4cf1-8561-40a736ed9a85  series:P/1  P/0 -> P/33
+Part    guid: a045deee-b59e-4c14-91d5-271cca4429f0  series:P/1  P/0 -> P/33
+Part    guid: 08c8ae84-f8c7-4f92-a668-fb64e5bdea98  series:P/1  P/0 -> P/33
+Part    guid: 7ba1294d-b7d8-4fac-8aeb-977868224a52  series:P/1  P/0 -> P/34
+Part    guid: e2342982-3f44-4db5-8fea-e96af89203ef  series:P/1  P/0 -> P/34
+Part    guid: 077781b8-772b-4cbd-a4d9-6a3b53d6f6fe  series:P/1  P/0 -> P/34
+Part numbering done in 0s
+Numbering 0 reinforcing bars
+Reinforcing bar numbering done in 0s
+Numbering 81 assemblies or assembly families
+Assembly guid: c1fd0de4-b9e6-4f37-b986-96ff891196b7  series:A/1  A/0 -> A/18
+Assembly guid: 71126fda-bb05-4917-83f0-4c935431471e  series:A/1  A/0 -> A/18
+Assembly guid: 18fba958-b5e0-4e74-affd-87a17365702e  series:A/1  A/0 -> A/18
+Assembly guid: e0e97bc5-94a0-46bc-8a46-7d14895c5d6c  series:A/1  A/0 -> A/18
+Assembly guid: 3a30bf84-749c-4d50-ae6b-1de669f84d6b  series:A/1  A/0 -> A/18
+Assembly guid: c8e712e7-4081-41e6-81dd-d7c07d8095b2  series:A/1  A/0 -> A/18
+Assembly guid: 9044300c-d4e4-4686-b62b-716014840736  series:A/1  A/0 -> A/19
+Assembly guid: 377bcf97-60ba-450d-9c67-4a99516a0af4  series:A/1  A/0 -> A/20
+Assembly guid: 95f3f658-a141-4aca-ae1e-ab9fad49808b  series:A/1  A/0 -> A/21
+Assembly guid: 43179304-7a11-4832-9c11-0b6fe5d0a24b  series:A/1  A/0 -> A/21
+Assembly guid: b2f5392a-9fdd-42a9-8e9a-c224b919557d  series:A/1  A/0 -> A/21
+Assembly guid: 4a16f532-85c4-40cb-8572-7ad4f3dc24fc  series:A/1  A/0 -> A/21
+Assembly guid: ae555b23-0516-4c89-b48f-166d8e9980c7  series:A/1  A/0 -> A/21
+Assembly guid: 62e3f213-95de-4fe7-beaf-644c78d5624b  series:A/1  A/0 -> A/21
+Assembly guid: c8233400-485a-49f3-b331-a091ea3fc0d3  series:A/1  A/0 -> A/21
+Assembly guid: acd92638-21f2-4107-a59e-d28f95c6b98c  series:A/1  A/0 -> A/21
+Assembly guid: 38b2ca2a-b3f9-484c-ae44-9024190d28c4  series:A/1  A/0 -> A/22
+Assembly guid: edd470ea-af78-4dac-8f51-c372a6cce822  series:A/1  A/0 -> A/22
+Assembly guid: 332648af-be45-439c-affa-c8e3857592f5  series:A/1  A/0 -> A/22
+Assembly guid: 3339444e-3a0c-45fc-8cef-91ef7cb45076  series:A/1  A/0 -> A/22
+Assembly guid: 4670517c-145b-406f-8cbb-be1544df18b9  series:A/1  A/0 -> A/22
+Assembly guid: 458077c2-a78f-465e-8fc7-7a0b4eda7ef5  series:A/1  A/0 -> A/22
+Assembly guid: 7faa7d1d-e468-46c3-97d0-52f0e0e7a104  series:A/1  A/0 -> A/22
+Assembly guid: 74ce7ab5-60fc-4443-9388-b9f800ac3595  series:A/1  A/0 -> A/22
+Assembly guid: a2000e20-5333-4778-947f-fdb5cf0bbbac  series:A/1  A/0 -> A/23
+Assembly guid: 09c6a442-eeb8-4abb-8803-dddb3fc9f1a6  series:A/1  A/0 -> A/23
+Assembly guid: 895250d4-b81a-4215-b794-5c7be39f7e4f  series:A/1  A/0 -> A/23
+Assembly guid: 76933db1-4811-4826-8f59-dd32a5c55596  series:A/1  A/0 -> A/23
+Assembly guid: 10f48471-cbbf-416c-89a4-eb2ae4f0e8fa  series:A/1  A/0 -> A/23
+Assembly guid: 0f3cb532-e8b0-4f81-998e-3d0c6dfec62e  series:A/1  A/0 -> A/23
+Assembly guid: 126adc39-4a7c-4ffe-9634-bab551026e63  series:A/1  A/0 -> A/23
+Assembly guid: 10f7851a-d443-416e-8401-a7892e6d0a57  series:A/1  A/0 -> A/23
+Assembly guid: c0c89bad-a610-429b-86ed-a64ff50a1a75  series:A/1  A/0 -> A/24
+Assembly guid: 6244f6c4-f153-43e0-a1c0-67f9e3ae7059  series:A/1  A/0 -> A/24
+Assembly guid: 0eaffdcf-90d9-4239-a841-f64aa24c0fdb  series:A/1  A/0 -> A/24
+Assembly guid: faa745d8-9f5e-427e-bd9d-6c571badc113  series:A/1  A/0 -> A/24
+Assembly guid: 2a1e3a43-742d-49ef-86ad-d314083ea87f  series:A/1  A/0 -> A/24
+Assembly guid: 6046c484-1bd0-480c-985b-73511116db43  series:A/1  A/0 -> A/24
+Assembly guid: 6bd2e95c-bcd8-4191-8247-2340dcede7c7  series:A/1  A/0 -> A/24
+Assembly guid: 655a04d1-012c-4d07-aa36-aeb4c719b6f8  series:A/1  A/0 -> A/24
+Assembly guid: 150b9ca2-06dd-4386-8c93-6e3d0a5f89da  series:A/1  A/0 -> A/25
+Assembly guid: b5fdf11f-3b56-43c8-a9b1-bca0bc41f930  series:A/1  A/0 -> A/25
+Assembly guid: d5037649-dd31-4f80-9933-94b6a80feed7  series:A/1  A/0 -> A/25
+Assembly guid: 7e848591-dd8a-4836-9f81-63fe792a61ab  series:A/1  A/0 -> A/25
+Assembly guid: 03fdbeec-f733-4b9c-ae06-888f39a1d84b  series:A/1  A/0 -> A/25
+Assembly guid: 3306ce1f-08b2-43b0-a79f-9cdbcda842cc  series:A/1  A/0 -> A/25
+Assembly guid: fa091649-caf5-4767-8777-8abaef52cc37  series:A/1  A/0 -> A/25
+Assembly guid: 5b600e8c-423d-43f4-83fe-e73a94f1caec  series:A/1  A/0 -> A/25
+Assembly guid: f8c0d5ee-8853-4bae-bdba-29ecdf2e9137  series:A/1  A/0 -> A/26
+Assembly guid: 1b8a8a3e-69a2-46c5-8d4d-d465dd8be487  series:A/1  A/0 -> A/26
+Assembly guid: 56b06a8b-a8d0-46f1-a144-9b12c5dbf2c3  series:A/1  A/0 -> A/26
+Assembly guid: 5217f512-d9e1-4847-b191-56a8ecc1d05a  series:A/1  A/0 -> A/26
+Assembly guid: e795ec3f-841b-4166-9fa8-a7e2daee137a  series:A/1  A/0 -> A/26
+Assembly guid: aa041fd3-e701-419d-9f69-61b50af1a366  series:A/1  A/0 -> A/26
+Assembly guid: 79f6d58d-d795-4553-835e-d57e0b9c0834  series:A/1  A/0 -> A/27
+Assembly guid: 0b3c606a-502f-4cea-a35f-c7ec9825fbe4  series:A/1  A/0 -> A/27
+Assembly guid: ee0dd656-8a10-46cf-a243-42dc6f8ea31b  series:A/1  A/0 -> A/27
+Assembly guid: aeffdcea-ea7f-4d3d-a5ea-424ad616d000  series:A/1  A/0 -> A/27
+Assembly guid: 0e558bc6-aade-4d24-b683-3c699b1d8474  series:A/1  A/0 -> A/27
+Assembly guid: 6a101b2b-8fc0-43c1-a38d-da8ce2ac155d  series:A/1  A/0 -> A/27
+Assembly guid: 2d88e6e3-6496-4075-8a6c-be5f66756736  series:A/1  A/0 -> A/27
+Assembly guid: 2437bdaa-7cc9-4344-afcb-587f8351124d  series:A/1  A/0 -> A/27
+Assembly guid: 9c68b3c2-9b68-41e7-9343-2ff2aaa431f1  series:A/1  A/0 -> A/28
+Assembly guid: 9687db8c-24d7-4fa4-97ef-e9b003b38c28  series:A/1  A/0 -> A/28
+Assembly guid: 169adc0c-df51-48db-937d-1cad42935070  series:A/1  A/0 -> A/28
+Assembly guid: 679b77f4-2c9e-4fdd-9016-1780f34d417d  series:A/1  A/0 -> A/28
+Assembly guid: de157a28-9b52-46e3-b538-a2a00eef5beb  series:A/1  A/0 -> A/28
+Assembly guid: 55ca93ed-04de-42c2-aa71-d92e5521ab06  series:A/1  A/0 -> A/28
+Assembly guid: 4f487e19-6fed-47f3-93b2-31a760a747b4  series:A/1  A/0 -> A/28
+Assembly guid: 83d1c571-49f9-4262-aa97-878c8777583e  series:A/1  A/0 -> A/28
+Assembly guid: 7df8d946-51b8-4d0a-98ca-516a8570f7a7  series:A/1  A/0 -> A/29
+Assembly guid: 547c2af0-eb9b-48fb-997a-c9f9b36bdf35  series:A/1  A/0 -> A/30
+Assembly guid: cda01cad-7fb3-46ab-ae60-9647cf23ef01  series:A/1  A/0 -> A/31
+Assembly guid: 87524e5f-c2ef-47e8-8e44-27c3e5b710a5  series:A/1  A/0 -> A/31
+Assembly guid: 039d311e-238e-418f-8037-8cb64b11bfc5  series:A/1  A/0 -> A/31
+Assembly guid: b93b416f-2f25-4c36-90b3-d3647dd58c48  series:A/1  A/0 -> A/32
+Assembly guid: a8cd14a3-7c48-48aa-9295-1c697cd8dbd1  series:A/1  A/0 -> A/33
+Assembly guid: 76674d79-1db3-49c3-83f4-b72311b9c873  series:A/1  A/0 -> A/34
+Assembly guid: 7c69fb66-34e2-4864-be42-008064c3d1c1  series:A/1  A/0 -> A/34
+Assembly guid: 783224d6-53c3-45ef-8157-983323ecfce7  series:A/1  A/0 -> A/34
+Assembly guid: cf2e2c09-4ae8-4ad1-9671-2ec5f22e042d  series:A/1  A/0 -> A/34
+Assembly numbering done in 0s
+Numbering 81 assemblies or assembly families
+Family numbering done in 0s
+***NUMBERING_HISTORY Operation finished Sun Oct  2 10:49:57 2022

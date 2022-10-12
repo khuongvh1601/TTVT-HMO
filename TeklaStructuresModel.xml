@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE TeklaStructuresModels>
+<TeklaStructuresModels>
+    <Model>
+        <Name>TTVT-HMO</Name>
+        <Designer>Trimble</Designer>
+        <Description> </Description>
+        <Version>2021 Service Pack 7</Version>
+        <ProductVersion>2021.0</ProductVersion>
+        <Language>enu</Language>
+        <Template></Template>
+        <Environment>se_asia</Environment>
+        <IsTemplate>FALSE</IsTemplate>
+        <XS_PROJECT></XS_PROJECT>
+        <XS_FIRM></XS_FIRM>
+        <XS_SYSTEM>C:\ProgramData\Trimble\Tekla Structures\2021.0\\environments\se_asia\Steel\drawing_settings\;C:\ProgramData\Trimble\Tekla Structures\2021.0\\environments\se_asia\Steel\master_drawings\;C:\ProgramData\Trimble\Tekla Structures\2021.0\\environments\se_asia\S</XS_SYSTEM>
+        <ConnectedId></ConnectedId>
+    </Model>
+</TeklaStructuresModels>

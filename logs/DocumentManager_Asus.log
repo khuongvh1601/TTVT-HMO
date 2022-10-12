@@ -1,0 +1,21 @@
+Sun 02.10.2022 10:45:41	Document Manager logging initialized.
+Sun 02.10.2022 10:45:41	Loaded column layout settings from file: C:\ProgramData\Trimble\Tekla Structures\2021.0\\environments\common\system\DocumentManagerDataGridSettings.xml
+Sun 02.10.2022 10:45:41	Loaded the column sort order settings from file: C:\ProgramData\Trimble\Tekla Structures\2021.0\\environments\common\system\DocumentManagerDataGridSettings.xml
+Sun 02.10.2022 10:45:41	Extensions paths to search for DocumentManagerUDAs files: C:\ProgramData\Trimble\Tekla Structures\2021.0\\environments\common\extensions
+Sun 02.10.2022 10:45:41	Seconds to find all DocumentManagerUDAs files: 0.000
+Sun 02.10.2022 10:45:41	Loading UDA settings file C:\ProgramData\Trimble\Tekla Structures\2021.0\environments\common\inp\DocumentManagerUDAs.txt
+Sun 02.10.2022 10:45:41	Settings file UDA 'comment' found in model.
+Sun 02.10.2022 10:45:41	Settings file UDA 'DR_APPROVAL_DATE' found in model.
+Sun 02.10.2022 10:45:41	Settings file UDA 'DR_APPROVAL_SENT' found in model.
+Sun 02.10.2022 10:45:41	Settings file UDA 'DR_APPROVED_BY' found in model.
+Sun 02.10.2022 10:45:41	Settings file UDA 'DR_ASSIGNED_BY' found in model.
+Sun 02.10.2022 10:45:41	Settings file UDA 'DR_ASSIGNED_TO' found in model.
+Sun 02.10.2022 10:45:41	Settings file UDA 'DR_CHECKED_BY' found in model.
+Sun 02.10.2022 10:45:41	Settings file UDA 'DR_CHECKED_DATE' found in model.
+Sun 02.10.2022 10:45:41	Settings file UDA 'DR_DRAWN_BY' found in model.
+Sun 02.10.2022 10:45:41	Loading file documents settings file C:\ProgramData\Trimble\Tekla Structures\2021.0\environments\common\system\DocumentManagerFileDocumentSettings.txt
+Sun 02.10.2022 10:45:41	Loaded 16 document categories from file: C:\ProgramData\Trimble\Tekla Structures\2021.0\\environments\common\system\DocumentManagerCategories.xml
+Sun 02.10.2022 10:52:34	FileSystemWatcher completed 0 of 0 events in 00:06:53.2307082 seconds
+Sun 02.10.2022 10:52:34	New model opened - closing current log.
+Sun 02.10.2022 10:52:34	No errors were logged in this session.
+	
